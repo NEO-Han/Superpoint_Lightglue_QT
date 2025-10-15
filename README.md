@@ -10,3 +10,5 @@
   <br/>cd build
   <br/>cmake ..
   <br/>待续
+# 所使用的模型
+  可从<https://github.com/AIDajiangtang/Superpoint-LightGlue-Image-Stiching>获取，本项目基于这个仓库改编
